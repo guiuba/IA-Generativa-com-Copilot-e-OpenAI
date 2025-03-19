@@ -24,3 +24,7 @@ Acesse: [Microsoft Copilot](https://copilot.microsoft.com/).
 
 Experimento utilizando **Vision Studio / Azure AI Vision** para extrair texto de imagens sem a utilização de código, com tecnologia **OCR (Optical Character Recognition)**.  
 
+## Passo 1  
+Acesse [portal.azure.com](https://portal.azure.com) e clique em **"Create a resource"**.  
+
+

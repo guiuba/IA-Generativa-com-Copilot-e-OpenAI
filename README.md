@@ -1,5 +1,5 @@
 # IA-Generativa-com-Copilot-e-OpenAI
-Atividade da plataforma Dio, explorando os recursos da Microsoft Azure para criação de imagens e detecção de texto em imagens.
+Atividade da plataforma Dio, explorando os recursos da Microsoft Azure para criação de imagens.
 
 # Gerando Imagens com o Microsoft Copilot
 
@@ -18,13 +18,12 @@ Acesse: [Microsoft Copilot](https://copilot.microsoft.com/).
 
 ![image](https://github.com/user-attachments/assets/e9e5ab10-7272-4266-b121-4d3e2d10a2ab)
 
-# Reconhecimento de Texto a partir de Imagens  
 
-## Passo a Passo  
 
-Experimento utilizando **Vision Studio / Azure AI Vision** para extrair texto de imagens sem a utilização de código, com tecnologia **OCR (Optical Character Recognition)**.  
 
-## Passo 1  
-Acesse [portal.azure.com](https://portal.azure.com) e clique em **"Create a resource"**.  
+
+
+
+
 
 

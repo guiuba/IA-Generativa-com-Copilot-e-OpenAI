@@ -17,3 +17,10 @@ Acesse: [Microsoft Copilot](https://copilot.microsoft.com/).
 ### Output:
 
 ![image](https://github.com/user-attachments/assets/e9e5ab10-7272-4266-b121-4d3e2d10a2ab)
+
+# Reconhecimento de Texto a partir de Imagens  
+
+## Passo a Passo  
+
+Experimento utilizando **Vision Studio / Azure AI Vision** para extrair texto de imagens sem a utilização de código, com tecnologia **OCR (Optical Character Recognition)**.  
+
